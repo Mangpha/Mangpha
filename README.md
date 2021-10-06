@@ -6,4 +6,7 @@
   
   [![Mangpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangpha)](https://github.com/mangpha)
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangpha)](https://github.com/mangpha)
+
+  
 </div>
