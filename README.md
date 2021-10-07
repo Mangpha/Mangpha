@@ -4,10 +4,10 @@
   
   [![wakatime](https://wakatime.com/badge/user/c947cb79-004b-42c8-8cb2-48ffeb0ed9f5.svg)](https://wakatime.com/@c947cb79-004b-42c8-8cb2-48ffeb0ed9f5)
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/mangpha">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mangpha" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/mangpha">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangpha&layout=compact" />
   </a>
 
