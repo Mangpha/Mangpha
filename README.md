@@ -20,5 +20,6 @@
 ---
  
   [![Score](https://github-readme-stats.vercel.app/api?username=Mangpha&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mangpha)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangpha&layout=compact)](https://github.com/mangpha)
 
