@@ -7,7 +7,6 @@
   ![gmail](https://img.shields.io/badge/GMail-mangph4@gmail.com-339933?style=for-the-badge&logo=gmail)
 </div>
 
----
 <div align="center">
   
   [![Score](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mangpha&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mangpha)
